@@ -1,0 +1,33 @@
+
+body{
+  background-color: #000000;
+}
+hr{
+  border-style: none;
+  border-top-style: double;
+  border-color: #FF0000;
+  height: 0;
+  width: 100%;
+  border-width: 3px;
+}
+h1{
+  color: #D8B6A4;
+}
+h2{
+  color: #630000;
+}
+h3{
+  color: #0F4C75;
+}
+p{
+  color: #D47AE8;
+}
+li{
+  color: #D47AE8;
+}
+table{
+  color: #D47AE8;
+}
+label{
+  color: #D47AE8;
+}
